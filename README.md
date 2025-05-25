@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kumuda Sri P
-- 👀 I’m interested in Coding, Mathematics, Painting
-- 🌱 I’m currently learning Python, C, DBMS
-- 📫 How to reach me www.linkedin.com/in/kumudasrip06
 - 😄 Pronouns: She/Her
+- 🤠 I’m interested in Coding, Mathematics, Painting
+- 🌱 I’m currently learning Data Science at IIT MADRAS
+- 📫 How to reach me www.linkedin.com/in/kumudasrip06
 - ⚡ Fun fact: Very much interested to learn and explore new things :)
 
 <!---
