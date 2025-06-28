@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📫 How to reach: me www.linkedin.com/in/kumudasrip06
+- 📫 How to reach me: www.linkedin.com/in/kumudasrip06
 
 - 📄 Know about my experiences: [https://docs.google.com/document/d/1oRD9f5ZO30qFlMYtvf0JIWQBtmdgc44VEIeV6eRO-cM/edit?usp=sharing](https://docs.google.com/document/d/1oRD9f5ZO30qFlMYtvf0JIWQBtmdgc44VEIeV6eRO-cM/edit?usp=sharing)
 
