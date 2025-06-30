@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kumuda Sri P</h1>
-<h3 align="center">Learner | Data Science</h3>
+<h3 align="center">Student</h3>
 
 - 👯 Pronouns: **She/Her**
 
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me: www.linkedin.com/in/kumudasrip06
+
+- Certifications: 
+1. Data Fundamentals by IBM
+2. Programming Fundamentals using Python - Part 1 and Part 2 by Infosys Springboard
+4. Google AI Essentials by Google on Coursera
+5. C Programming Basics: Kick start your programming career by Simplilearn
 
 <!-- 📄 Know about my experiences: [https://docs.google.com/document/d/1oRD9f5ZO30qFlMYtvf0JIWQBtmdgc44VEIeV6eRO-cM/edit?usp=sharing](https://docs.google.com/document/d/1oRD9f5ZO30qFlMYtvf0JIWQBtmdgc44VEIeV6eRO-cM/edit?usp=sharing) -->
 
