@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📫 How to reach me: www.linkedin.com/in/kumudasrip06
-
 <!-- 📄 Know about my experiences: [https://docs.google.com/document/d/1oRD9f5ZO30qFlMYtvf0JIWQBtmdgc44VEIeV6eRO-cM/edit?usp=sharing](https://docs.google.com/document/d/1oRD9f5ZO30qFlMYtvf0JIWQBtmdgc44VEIeV6eRO-cM/edit?usp=sharing) -->
 
 - ⚡ Fun fact: **Interested to learn and explore new things!**
@@ -38,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 <li><a target="_blank" href="https://www.codechef.com/users/kumuda_sri">CodeChef</a></li>
 <li><a target="_blank" href="https://codeforces.com/profile/kumudasri06">CodeForces</a></li>
 <h2>⚡️ Where to find me</h2>
+<ul>
 <p><a target="_blank" href="https://www.linkedin.com/in/kumudasrip06" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumudasrip&" alt="kumudasrip" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumudasrip&show_icons=true&locale=en&layout=compact" alt="kumudasrip" /></p>
