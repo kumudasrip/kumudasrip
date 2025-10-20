@@ -41,9 +41,16 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h2 align="left">Hi 👋! My name is Kumuda 🤗</h2>
+<h2 align="center">Hi 👋! My name is Kumuda 🤗</h2>
 
 ###
+<h3 align="center">Student</h3>
+
+- 👯 Pronouns: **She/Her**
+
+- 🌱 I’m currently learning **Data Science**
+
+- ⚡ Fun fact: **Interested to learn and explore new things!**
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kumudasrip&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
