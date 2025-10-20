@@ -39,16 +39,10 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumudasrip&" alt="kumudasrip" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumudasrip&show_icons=true&locale=en&layout=compact" alt="kumudasrip" /></p>
 
-<h1 align="center">Hi 👋, I'm Kumuda Sri P</h1>
-<h3 align="center">Student</h3>
 
-- 👯 Pronouns: **She/Her**
 
-- 🌱 I’m currently learning **Data Science**
+<h2 align="left">Hi 👋! My name is Kumuda 🤗</h2>
 
-<!-- 📄 Know about my experiences: [https://docs.google.com/document/d/1oRD9f5ZO30qFlMYtvf0JIWQBtmdgc44VEIeV6eRO-cM/edit?usp=sharing](https://docs.google.com/document/d/1oRD9f5ZO30qFlMYtvf0JIWQBtmdgc44VEIeV6eRO-cM/edit?usp=sharing) -->
-
-- ⚡ Fun fact: **Interested to learn and explore new things!**
 ###
 
 <div align="center">
@@ -101,18 +95,13 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ###
-<h2>✒️ My Coding Profiles</h2>
-<ul>
-<li><a target="_blank" href="https://leetcode.com/u/kumudasri/">LeetCode</a></li>
-<li><a target="_blank" href="https://www.hackerrank.com/profile/kumudasri06">HackerRank</a></li>
-<li><a target="_blank" href="https://www.codechef.com/users/kumuda_sri">CodeChef</a></li>
-<li><a target="_blank" href="https://codeforces.com/profile/kumudasri06">CodeForces</a></li>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kumudasrip06/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/kumudasri06" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
 
