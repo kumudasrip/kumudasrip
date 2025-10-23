@@ -75,6 +75,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kumudasrip/kumudasrip/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/kumudasrip/kumudasrip/blob/output/github-contribution-grid-snake.svg)
 
 ###
