@@ -72,9 +72,3 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/kumudasrip06" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 ###
-
-<br clear="both">
-
-![snake animation](https://github.com/kumudasrip/kumudasrip/blob/output/github-contribution-grid-snake2.svg)
-
-###
