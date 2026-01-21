@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Kumuda 🤗</h1>
+<h1 align="center">Hi! 👋 My name is Kumuda 🤗</h1>
 
 ###
 <h3 align="center">Student</h3>
