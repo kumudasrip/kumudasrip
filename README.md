@@ -72,3 +72,11 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/kumudasrip06" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumudasrip/kumudasrip/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumudasrip/kumudasrip/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kumudasrip/kumudasrip/output/pacman-contribution-graph.svg">
+</picture>
+
+###
