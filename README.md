@@ -285,6 +285,8 @@ Redis-queued crawler + custom search engine — TF-IDF, PageRank, Trie autocompl
 
 <div align="center">
 
+[![Trophies](https://github-trophies.vercel.app/?username=kumudasrip&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400)](https://github.com/kumudasrip)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumudasrip&theme=radical&hide_border=true&background=0d1117&ring=8B5CF6&fire=FF6584" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumudasrip&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B5CF6&line=FF6584&point=ffffff" />
