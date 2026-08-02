@@ -242,16 +242,29 @@ Redis-queued crawler + custom search engine — TF-IDF, PageRank, Trie autocompl
 <summary><b>🥇 Wins & Participations</b></summary>
 <br>
 
-| Highlights | More Wins |
-|---|---|
-| Google Big Code 2026 — Top 1500 Semifinalist | Math Anxiety Relief Quiz — Top 10 |
-| AMD Slingshot 2026 — Top 10 Regional Finalist | Cisco VIP'25 & Skill-A-Thon'25 |
-| NASA Space Apps — Global Nominee | Zomathon Participant |
-| HackVega 2.0 — Round 2 Qualified | Google Solution Challenge Participant |
-| MSME R&D Showcase — Winner | IICPC Codefest 2026 — Prelims Qualified |
-| WitchHunt Semi-Finalist | Infosys Pragati — Cohort 6 |
-| Algo Wars, IITM — 3rd Place | GSIH 2026 (CS Track) Participant |
-| VNR Convergence Hackathon — National Finalist |  |
+| Highlights |
+|---|
+| Flipkart GRID 8.0 — Semifinalist |
+| HackVega 2.0 — Semifinalist |
+| Google Big Code 2026 — Semifinalist (Top 1500) |
+| WitchHunt — Semifinalist |
+| MSME R&D Showcase — Winner |
+| AMD Slingshot 2026 — Regional Finalist (Top 10) |
+| VNR Convergence Hackathon — National Finalist |
+| NASA International Space Apps Challenge 2025 — Global Nominee |
+
+<br>
+
+| More Wins |
+|---|
+| GSIH 2026 (CS Track) Participant |
+| Google Solution Challenge Participant |
+| Zomathon Participant |
+| IICPC Codefest 2026 — Prelims Qualified |
+| Cisco VIP'25 Participant |
+| Cisco Skill-A-Thon'25 Participant |
+| Infosys Pragati — Cohort 6 |
+| Math Anxiety Relief Quiz — Top 10 |
 
 </details>
 
