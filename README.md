@@ -246,7 +246,6 @@ Redis-queued crawler + custom search engine — TF-IDF, PageRank, Trie autocompl
 |---|
 | Flipkart GRID 8.0 — Semifinalist |
 | HackVega 2.0 — Semifinalist |
-| Google Big Code 2026 — Semifinalist (Top 1500) |
 | WitchHunt — Semifinalist |
 | MSME R&D Showcase — Winner |
 | AMD Slingshot 2026 — Regional Finalist (Top 10) |
