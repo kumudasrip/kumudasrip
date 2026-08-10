@@ -287,6 +287,8 @@ Redis-queued crawler + custom search engine — TF-IDF, PageRank, Trie autocompl
 
 </details>
 
+<img width="1804" height="1032" alt="Screenshot 2026-08-10 193548" src="https://github.com/user-attachments/assets/e1eca170-040d-4c15-a480-f1d4df1b03ce" />
+
 [![An image of @kumudasrip's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kumudasrip)](https://holopin.io/@kumudasrip)
 
 <p align="center">
