@@ -7,9 +7,9 @@
 <br>
 
 <img src="https://img.shields.io/badge/570%2B-DSA_Problems-6C63FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/25%2B-PRs_Merged-8B5CF6?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/35%2B-PRs_Merged-8B5CF6?style=for-the-badge&labelColor=0d1117" />
 <br>
-<img src="https://img.shields.io/badge/8-Projects-C264FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/9-Projects-C264FF?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/10%2B-Hackathons-FF6584?style=for-the-badge&labelColor=0d1117" />
 
 </div>
